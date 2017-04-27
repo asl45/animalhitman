@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+  - enabled: 0
+    path: Assets/Scenes/Intro.unity
+  - enabled: 1
+    path: Assets/Scenes/Bunnies.unity
+  - enabled: 1
+    path: Assets/Scenes/Chicken1.unity
+  - enabled: 1
+    path: Assets/Scenes/Goldfish.unity
+  - enabled: 0
+    path: Assets/Scenes/Chicken.unity
+  - enabled: 1
+    path: Assets/Scenes/chickenlevelsuccess.unity
+  - enabled: 1
+    path: Assets/Scenes/fishbowllevelsuccess.unity
+  - enabled: 0
+    path: Assets/bunnieslevelsuccess.unity
+  - enabled: 1
+    path: Assets/Scenes/levelfail.unity
+  - enabled: 0
+    path: Assets/SceneManager.unity
+  - enabled: 1
+    path: Assets/Scenes/bunnieslevelsuccess.unity
